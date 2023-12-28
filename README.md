@@ -28,11 +28,14 @@ with open("Files.txt","r") as f1:
         f2.write(line)
 ```
 ### OUTPUT:
-![output](/PROG.png)
+![PROG](https://github.com/Thilakeshwaran/copy-file/assets/147473132/2a88afdb-63c6-495b-867e-667228fb8e3f)
+
 file.txt
-![output](/FILE.png)
+![FILE](https://github.com/Thilakeshwaran/copy-file/assets/147473132/2779e25e-8a2d-4373-b4ea-57b99a66372b)
+
 copy.txt
-![output](/COPY.png)
+![COPY](https://github.com/Thilakeshwaran/copy-file/assets/147473132/7bce3ccb-d68c-457c-9f3e-baf08e58f03f)
+
 
 
 ## RESULT:
